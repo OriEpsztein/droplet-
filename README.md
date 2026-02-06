@@ -25,7 +25,7 @@ You can find the full research details directly in this GitHub repo:
 ### 2. Dataset Access (External Drive)
 Due to the large size of the high-resolution image sequences, the raw image dataset is hosted externally.
 
-👉 **[Download Raw Images from Google Drive](https://drive.google.com/drive/folders/1j0XsO7YX_w4uiOnQNOatF7oynLYMRf3V)**
+👉 **[View Full Dataset on Google Drive (Recommended)](https://drive.google.com/drive/folders/1j0XsO7YX_w4uiOnQNOatF7oynLYMRf3V)**
 
 **Note:** The Drive folder contains the raw image sequences organized by treatment. You need to download them (or mount the drive) to run the code.
 
